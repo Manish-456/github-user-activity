@@ -1,5 +1,5 @@
 ## Github user activity
-Solution for the (github-user-activity)[https://roadmap.sh/projects/github-user-activity] challenge from (roadmap.sh)[https://roadmap.sh]
+Solution for the [github-user-activity](https://roadmap.sh/projects/github-user-activity) challenge from [roadmap.sh](https://roadmap.sh)
 
 #### Get started
 Clone the repository and run the following command:
